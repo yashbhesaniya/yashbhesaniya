@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Lead+AI+Engineer;Data+Scientist;Full-Stack+Developer;GenAI+Specialist)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Lead+AI%2FML+Engineer;Data+Scientist;Full-Stack+Developer;GenAI+Specialist)](https://git.io/typing-svg)
   
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-> **Lead AI Engineer & Data Scientist** with M.Sc. in Data Science and **3+ years** of experience in the AI lifecycle. Expert in building scalable generative AI solutions, RAG pipelines, and LLM integrations.
+> **Lead AI/ML Engineer & Data Scientist** with M.Sc. in Data Science and **4+ years** of experience architecting production-grade Generative AI systems and scalable RAG pipelines. Expert in Python/FastAPI backend development and system evaluation. Proven track record of driving operational efficiency, including a **40% reduction** in administrative workload through custom automation and a **65% improvement** in bug resolution time using AI-driven root-cause analysis.
 
 <div align="center">
 
@@ -39,10 +39,11 @@
 
 ### 💼 Current Role
 
-**Lead AI Engineer & IT Consultant** at **Wamocon GmbH** *(Sep 2025 – Present)*
-- 🏗️ Architecting vocational training platforms with role-based tracking
-- ⚙️ Developing automated workflows using n8n and Google Gemini
-- 🎯 Managing full project lifecycle from ideation to production
+**Head of Engineering / SaaS Lead** at **Wamocon GmbH** *(Aug 2024 – Present)*
+- 🏗️ Architected and deployed production-grade agentic AI solutions and RAG pipelines, collaborating with cross-functional teams to ensure a **40% reduction** in administrative workload
+- 🎨 Architected responsive UI frameworks to ensure seamless cross-device compatibility and UX consistency
+- ✅ Standardized model validation and automated testing workflows for production-grade AI deployment
+- 🎯 Facilitated project roadmaps and delivered high-impact technical presentations to executive stakeholders
 
 ## 🛠️ Tech Stack
 
@@ -101,6 +102,7 @@
 <summary><b>🎨 Frontend & Web</b></summary>
 <br>
 
+![Angular JS](https://img.shields.io/badge/Angular%20JS-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -131,18 +133,18 @@
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6366F1','primaryTextColor':'#fff','primaryBorderColor':'#4F46E5','lineColor':'#8B5CF6','secondaryColor':'#818CF8','tertiaryColor':'#C7D2FE'}}}%%
 timeline
     title Professional Journey
-    Sep 2025 - Present : Lead AI Engineer & IT Consultant @ Wamocon GmbH
-                        : Vocational training platform architecture
-                        : Automated workflows with n8n & Gemini
-    Apr 2025 - Aug 2025 : Master's Thesis - AI in Software Testing
+    Aug 2024 - Present : Head of Engineering / SaaS Lead @ Wamocon GmbH
+                        : Production-grade agentic AI & RAG pipelines
+                        : 40% reduction in administrative workload
+    Mar 2025 - Jul 2025 : Master's Thesis Researcher – AI Testing @ Wamocon GmbH
                          : AI-enhanced Playwright automation
-                         : 90% accuracy root cause analysis
-    Aug 2024 - Aug 2025 : Head of Development & Tester
-                         : 95% test coverage achievement
-                         : CI/CD optimization with GitHub Actions
-    Jul 2024 - Sep 2024 : Data Scientist @ FZI Research Center (KIT)
-                         : Latent Diffusion Model development
-                         : 80% data privacy enhancement
+                         : 65% bug resolution improvement · 90% diagnostic accuracy
+    Jul 2024 - Sep 2024 : Data Scientist – Research Assistant @ FZI Research Center (KIT)
+                         : Latent Diffusion Model for autonomous vehicles
+                         : 80% increase in data privacy
+    Jul 2020 - Mar 2022 : Business Data Analyst @ ByJu's, India
+                         : Python & SQL reporting workflows
+                         : Streamlined business operations
 ```
 
 ## 🚀 Featured Projects
@@ -218,17 +220,20 @@ timeline
 ## 🎓 Education
 
 **M.Sc. Data Science** | Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) | *Apr 2022 – Aug 2025*
-- **GPA:** 2.7
-- Focus: AI, Machine Learning, Deep Learning, Data Analytics
+- Focus: Machine Learning Time Series, ML in Signal Processing, Business Intelligence, Deep Learning, Innovation and Leadership, Mathematics of Learning
 
-**B.E. Information Technology** | Gujarat Technological University | *May 2017 – Jul 2021*
-- **GPA:** 2.0
-- Foundation in Software Engineering and Computer Science
+**B.E. Information Technology** | Gujarat Technological University, India | *May 2017 – Jul 2021*
+- Focus: AI, Data Structure, Database Management Systems, Analysis and Design of Algorithms, Software Engineering, Big Data Analytics, Web Technology
+
+## 🏅 Certificates
+
+- **Deep Learning with TensorFlow** — IBM
+- **Prompt Design in Vertex AI** — Google Cloud Badge
 
 ## 🌐 Languages
 
 - **English:** C1 (Very Good)
-- **German:** B1 (Good Knowledge)
+- **German:** A2
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
